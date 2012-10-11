@@ -1,0 +1,8 @@
+<VisualMicro>
+  <Program Name="XbeeRFRun" Ext=".pde" Location="C:\Users\Eng Wei\Documents\Arduino\XbeeRFRun" IncludeDebugInformation="0">
+    <Compile CompilerErrors="0" OptimiseLibs="True" OptimiseCore="True" StopOnError="True" BuildPath="C:\Users\Eng Wei\AppData\Local\VMicro\Arduino\Builds\XbeeRFRun\mega2560" IncludesDebug="0" SketchName="XbeeRFRun" IsCompiled="1" />
+    <Platform Name="Arduino">
+      <Board CoreFolder="K:\Google Drive\Hardware\Arduino\arduino-1.0.1\hardware\arduino\cores\arduino" Name="mega2560" Description="Arduino Mega 2560 or Mega ADK" VariantFullPath="K:\Google Drive\Hardware\Arduino\arduino-1.0.1\hardware\arduino\variants\mega" />
+    </Platform>
+  </Program>
+</VisualMicro>

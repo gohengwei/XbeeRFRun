@@ -4,7 +4,6 @@
 #include <SD.h>
 #include <Wire.h>
 #include "pitches.h"
-//#include <Ethernet.h>
 #include <i2cLCD.h>
 //Constants
 #define DHTPIN 22
